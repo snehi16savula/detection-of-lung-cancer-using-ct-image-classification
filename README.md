@@ -1,1 +1,1 @@
-# detection-of-lung-cancer-using-ct-image-classification
+# Detection-of-lung-cancer-using-SVM -CT-image-classification.
