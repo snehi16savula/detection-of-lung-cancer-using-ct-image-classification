@@ -21,7 +21,7 @@ The dataset used in this project contains CT scan images of lungs, labeled as ei
 
 * Image type: CT scans
 * Labels: Cancerous or Non-cancerous
-* Dataset size: Dependent on the source (can be publicly available datasets such as LIDC-IDRI)
+* Dataset size: Dependent on the source )
 
 Tools and Technologies
 
@@ -60,16 +60,15 @@ Methodology
 
 Through this project, I gained experience in:
 
-* Processing and handling medical image data
-* Extracting meaningful features from CT scans for machine learning
-* Implementing and tuning SVM classifiers for image classification
-* Evaluating model performance using standard metrics
-* Understanding the challenges of applying AI in healthcare
+ Processing and handling medical image data
+ Extracting meaningful features from CT scans for machine learning
+ Implementing and tuning SVM classifiers for image classification
+ Evaluating model performance using standard metrics
+ Understanding the challenges of applying AI in healthcare
 
  Conclusion
 
 The project successfully demonstrates that SVM can be applied for lung cancer detection using CT scan images. While it may not replace medical expertise, it provides an effective tool for assisting radiologists in early diagnosis, potentially improving patient outcomes.
 
 
-Do you want me to do that next?
 
